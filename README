@@ -1,1 +1,33 @@
-I have cahnged it... :P
+CSE 473: Pattern Recognition
+----------------------------
+Term Project
+Department of Computer Science and Engineering
+Bangladesh University of Engineering and Technology.
+
+
+
+Student ID:	
+-----------
+0605015, 0605027, 0605043
+
+
+
+Description:
+------------
+The project is aimed to implement some of the major feature extraction methods on COLOR feature for Content Based Image Retrieval System.
+
+
+
+Technical Description:
+-----------------
+Web(J2EE)
+Struts 1.3.8
+Python Imaging Library (for data generation)
+Netbeans 6.9 IDE
+
+
+
+Contact:
+ragib.ahsan@gmail.com
+dhiman.paul89@gmail.com
+
